@@ -3,6 +3,9 @@ Here are some notes I am taking while reading *Deep Learning* by Ian Goodfellow,
 If you have find errors in the material, please email me at aaron.garcia.nabong@gmail.com.
 
 ## Table of Contents
+
+1. Introduction
+
 ### Part I: Applied Math and Machine Learning Basics
 2. Linear Algebra
 3. Probability and Information Theory
