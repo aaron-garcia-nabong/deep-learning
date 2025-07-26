@@ -4,7 +4,7 @@ If you have find errors in the material, please email me at aaron.garcia.nabong@
 
 ## Table of Contents
 
-1. [Introduction](./notes/ch1-notes/ch1-notes.md)
+1. [Introduction](notes/ch1-notes/ch1-notes.md)
 
 ### Part I: Applied Math and Machine Learning Basics
 2. Linear Algebra
