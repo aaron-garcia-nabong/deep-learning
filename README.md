@@ -7,7 +7,7 @@ If you have find errors in the material, please email me at aaron.garcia.nabong@
 1. [Introduction](notes/ch1-notes/ch1-notes.md)
 
 ### Part I: Applied Math and Machine Learning Basics
-2. Linear Algebra
+2. [Linear Algebra](notes/ch2-notes/ch2-notes.md)
 3. Probability and Information Theory
 4. Numerical Computation
 5. Machine Learning Basics
